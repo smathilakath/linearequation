@@ -2,7 +2,7 @@ Linear Equation challenge
 =====================================
 
 <p>The program allows a user to enter a simple linear equation into
-a textbox whichthen generates data and a graph.</p>
+a textbox which spits out array of  data and a graph.</p>
 
 ## Table of Contents
 
@@ -15,6 +15,8 @@ a textbox whichthen generates data and a graph.</p>
 * In order to successfully run this sample app you need a few things:
 
 1. Node JS
+2. Node Express
+3. Browser
 
 ## First Use Instructions
 
@@ -25,6 +27,7 @@ a textbox whichthen generates data and a graph.</p>
 
 1. Node server.js
 
+## Result
 ####Figure 1:
 ![Alt text](images/equation.png "equation")
 
