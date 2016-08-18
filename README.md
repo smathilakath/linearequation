@@ -1,2 +1,6 @@
-# linearequation
-The program allows a user to enter a simple linear equation into a textbox whichthen generates data and a graph
+Calculate the linear equation.
+
+Description:
+The program allows a user to enter a simple linear equation into a textbox which then generates data and a graph.
+
+

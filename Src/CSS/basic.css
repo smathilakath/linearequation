@@ -1,0 +1,14 @@
+/* src/css/basic.less */
+body {
+  background: #000;
+  color: #000;
+}
+section.content {
+  padding: 20px;
+  margin-top: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 20px;
+  width: 70%;
+  background: #FFF;
+}
