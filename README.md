@@ -1,5 +1,5 @@
-Linear Equation challenge
-=====================================
+Linear Equation 
+================
 
 <p>The program allows a user to enter a simple linear equation into
 a textbox which spits out array of  data and a graph.</p>
@@ -27,7 +27,10 @@ a textbox which spits out array of  data and a graph.</p>
 
 1. Node server.js
 
+## Example : y=x+7
+
 ## Result
+
 ####Figure 1:
 ![Alt text](images/equation.png "equation")
 
